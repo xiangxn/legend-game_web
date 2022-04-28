@@ -1,0 +1,31 @@
+玄天赤月，高战福利
+
+活动介绍
+Legend预截止在2021.8.15 24:00对战力榜前10进行赠送赤月宝箱
+
+活动奖励
+第一名 10个赤月宝箱
+第二名 8个赤月宝箱
+第三名 5个赤月宝箱
+第四名 4个赤月宝箱
+第五名 2个赤月宝箱
+六至十名 1个赤月宝箱
+
+活动时间
+2021.8.8 00:00 至 2021.8.15 23:59
+
+推特地址: https://twitter.com/Legend26056595
+
+官网大门: https://www.legendnft.com/
+项目介绍: https://www.legendnft.com/desc-cn.pdf
+玩法介绍: https://www.legendnft.com/play.pdf
+Certik审计: https://www.legendnft.com/REP-Legend-2021-06-08.pdf
+电报大门: https://t.me/legendao
+
+Bsc网络交易所购买地址
+MDEX交易池: https://bsc-info.mdex.me/#/pair/0x1c9580a7400026c2cdf8010b1938ed65e1f55a41
+CAKE交易池: https://pancakeswap.info/pool/0x4c49b25c9b328230732be540fd734dae611c642a
+
+代币合约
+0xe169c6174c40274519c03e8dffa78953a7eb809d
+LP永久锁仓：https://bscscan.com/tx/0x94db36d66ea2d90eff8afa827c81d3dab3fdf2ca8cfda1264a6e22cf5553d352

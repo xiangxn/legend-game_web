@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Legend</title>
+    <link type="text/css" href="./styles/index.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    <script src="./index.js"></script>
+</head>
+
+<body>
+    <div class="navigation">
+        <div class="logo">
+            <img src="./images/logo.png" />
+        </div>
+        <div class="flex_fill"></div>
+        <div class="lang_btn">
+           <a href="https://bsc.mdex.me/#/swap?inputCurrency=0x55d398326f99059ff775485246999027b3197955&outputCurrency=0xe169c6174c40274519c03e8dffa78953a7eb809d">购买游戏币</a> 
+        </div>
+    </div>
+    <div class="top_banner">
+        <div class="flex_fill"></div>
+        <div><img src="./images/role.gif" /></div>
+        <div class="mid_btn">
+            <a href="https://game.legendnft.com">进入游戏</a>
+        </div>
+        <div>
+            <div class="txt_prize_pool"><img style="width: 344px; height: 112px;" src="./images/pool_txt.png" />
+            </div>
+            <div id="bonus_pool" class="txt_prize_pool">$999,999,999</div>
+        </div>
+        <div class="flex_fill"></div>
+    </div>
+    <div class="top_btns">
+        <div class="box">
+            <div class="item1">
+                项目介绍
+            </div>
+            <div class="item2">
+                艺术品区
+            </div>
+            <div class="item3">
+                版本规划
+            </div>
+        </div>
+    </div>
+    <div class="content" id="contents">
+        <div class="interval"></div>
+        <div class="content_box" id="introduction">
+            <div class="bg_top"></div>
+            <div class="info_box">
+                <div class="info_title">
+                    <p>项目介绍</p>
+                </div>
+                <div class="info info_border">
+                    <div class="introduction">
+                        <div class="introduction_left"></div>
+                        <div class="introduction_right flex_fill">
+                            <div class="arrow"></div>
+                            <div class="intr_items">
+                                <div id="intr1">
+                                    <img class="gui1" src="./images/gui1.png" />
+                                    <p>一定保底</p>
+                                </div>
+                                <div id="intr2">
+                                    <img class="gui1" src="./images/gui2.png" />
+                                    <p>双头并进</p>
+                                </div>
+                                <div id="intr3">
+                                    <img class="gui1" src="./images/gui3.png" />
+                                    <p>三重保险</p>
+                                </div>
+                                <div id="intr4">
+                                    <img class="gui1" src="./images/gui4.png" />
+                                    <p>四种选择</p>
+                                </div>
+                            </div>
+                            <div class="arrow flip"></div>
+                        </div>
+                    </div>
+                    <div id="intr_content" class="content_indent">
+                        <p>游戏中的奖池将一直存在并持续滚存，是作为回购玩家图腾的最大资金保障，同时也是项目持久运营的坚挺手段。</p>
+                        <p>游戏中所有NFT道具都锁定了LGC，销毁后都可以得到其锁定的价值，无论如何都不会亏。</p>
+                    </div>
+                </div>
+            </div>
+            <div class="bg_bottom"></div>
+        </div>
+        <div class="interval_80"></div>
+        <div class="content_box" id="artwork">
+            <div class="bg_top"></div>
+            <div class="info_box ">
+                <div class="info_title">
+                    <p>艺术品区</p>
+                </div>
+                <div class="info info_border content_indent">
+                    <p>
+                        艺术家可花费少量LGC上传艺术品,上传的艺术品可以接受所有用户投票。投票的所有LGC将作为该艺术品的锁定LGC价值。
+                    </p>
+                    <p>
+                        根据投票，每期选择前十名艺术品放入下一个返奖周期，并在各个副本以碎片形式产出。碎片集齐后可以合成成为完整的艺术品。完整的艺术品可以销毁和交易。销毁后，艺术品锁定的LGC将立即返回给持有者和艺术家。艺术品可以进行拍卖，拍卖所得数字资产由拍卖者和艺术家共同获得，艺术品的合成者将与拍卖人分享前三次（不包含合成者拍卖那次）拍卖所得，艺术家将永久分成。
+                    </p>
+                    <p>注1：未进入返奖周期的艺术品其LGC将持续锁仓，并在下一返奖周期继续接受投票。</p>
+                    <p>注2：艺术品分成比例以社区投票为准。</p>
+                    <p>注3：具体艺术品玩法有可能微调，请以上线版本为准。</p>
+                </div>
+                <div class="wait">
+                    <img src="./images/stay_tuned.png" />
+                    <p>艺术品玩法即将上线，敬请期待</p>
+                </div>
+            </div>
+            <div class="bg_bottom"></div>
+        </div>
+        <div class="interval_80"></div>
+        <div class="content_box" id="version">
+            <div class="bg_top"></div>
+            <div class="info_box ">
+                <div class="info_title">
+                    <p>版本规划</p>
+                </div>
+                <div class="info info_border">
+                    <div class="version"></div>
+                </div>
+            </div>
+            <div class="bg_bottom"></div>
+        </div>
+    </div>
+    <div class="interval_80"></div>
+    <div class="bottom">
+        <div class="icon_list">
+            <a href="mailto:necklace1982@gmail.com" target="_blank"><img src="./images/email.png" /></a>
+            <a href="https://twitter.com/Legend26056595" target="_blank"><img src="./images/twiter.png" /></a>
+            <a href="https://t.me/legendao" target="_blank"><img src="./images/telegram.png" /></a>
+            <a href="https://github.com/NFT-Legend" target="_blank"><img src="./images/github.png" /></a>
+            <a href="./REP-Legend-2021-06-08.pdf" target="_blank"><img src="./images/audit.png" /></a>
+        </div>
+    </div>
+    <div id="fade" class="black_overlay" onclick="CloseWX()">
+        asdfasdf
+    </div>
+    <div id="div_wx" class="white_content" onclick="CloseWX()">
+        <img src="./wx.png" />
+    </div>
+    <div id="ido_win" class="ido_win">
+        <div class="ido_box">
+            <div onclick="closeIdo()" class="btn_close"></div>
+            <ul>
+                <li id="all_coin">总剩余额度: 500000 LGC</li>
+                <li id="my_coin">您可以购买: 500000 LGC</li>
+                <li></li>
+                <li>输入数量: <input id="amount" autocomplete="off" oninput="calcUSDT(this)" type="text" /></li>
+                <li></li>
+                <li id="show_usdt">需要支付: 0 USDT</li>
+                <li></li>
+                <li><input type="button" title="授权" value="授权" onclick="doApprove()" />&nbsp;&nbsp;&nbsp;&nbsp;<input
+                        type="button" title="购买" value="购买" onclick="doBuy()" /></li>
+            </ul>
+
+        </div>
+    </div>
+</body>
+
+</html>

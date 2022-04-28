@@ -1,0 +1,62 @@
+[
+    {
+        "address": "0xF42c57dcd6e5e1baDf07030A73b4F7C7093E60C1",
+        "profession": 2,
+        "name": "\u6ce2\u6bd4",
+        "power": 234837
+    },
+    {
+        "address": "0xBf0C2909a37195BB41E1a1852B5968de66a05A78",
+        "profession": 2,
+        "name": "\u838e\u82ad\u4e1d\u63d0\u5b89",
+        "power": 203749
+    },
+    {
+        "address": "0x231Ca1F9D3dAb798072B77b079E15b8dA11F0240",
+        "profession": 1,
+        "name": "\u7231\u8fea\u751f",
+        "power": 195847
+    },
+    {
+        "address": "0xF1c9cb79Bd60Afb3E989567a6a51697afdEded91",
+        "profession": 3,
+        "name": "\u514b\u91cc\u65af",
+        "power": 166703
+    },
+    {
+        "address": "0x563011ebf57610b95815b268d435E70095c97688",
+        "profession": 2,
+        "name": "\u739b\u62c9",
+        "power": 164577
+    },
+    {
+        "address": "0x2ad0337022c9d04D4877FE0d66bD0a9a6Cc5e956",
+        "profession": 3,
+        "name": "\u6469\u9edb\u4e1d\u63d0",
+        "power": 124300
+    },
+    {
+        "address": "0x075364b3833afdf8837446977108D81cE0f9baC3",
+        "profession": 3,
+        "name": "\u5e93\u514b",
+        "power": 85093
+    },
+    {
+        "address": "0xe28e980BE2a4FfDda69622B39BcFA7B75e590cD6",
+        "profession": 3,
+        "name": "\u8d1d\u9f50",
+        "power": 78881
+    },
+    {
+        "address": "0xb8623F8f105303da72a6c3B60fD91BA43dCae31C",
+        "profession": 3,
+        "name": "\u8d39\u6ecb",
+        "power": 76215
+    },
+    {
+        "address": "0xcCbAE36fd1e88f696Afa7A71897Aefd38Ab1f1b5",
+        "profession": 3,
+        "name": "\u6797\u5947",
+        "power": 70132
+    }
+]

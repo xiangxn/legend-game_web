@@ -1,0 +1,61 @@
+{
+    "stakePool": [
+        {
+            "title": "LGC/USDT(CAKE)2",
+            "address": "0x0000000000000000000000000000000000000016",
+            "token": "0x4c49b25c9b328230732be540fd734dae611c642a",
+            "abi": "StakeMine",
+            "decimals": 18,
+            "url": "https://pancakeswap.info/pool/0x4c49b25c9b328230732be540fd734dae611c642a",
+            "priceUrl": "https://pancakeswap.info",
+            "isCalc": false
+        },
+        {
+            "title": "LGC/USDT(MDX)3",
+            "address": "0x0000000000000000000000000000000000000015",
+            "token": "0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "abi": "StakeMine",
+            "decimals": 18,
+            "url": "https://bsc-info.mdex.co/#/pair/0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "priceUrl": "https://bsc-info.mdex.com",
+            "isCalc": false
+        },
+        {
+            "title": "LGC/USDT(CAKE)",
+            "address": "0x0000000000000000000000000000000000000012",
+            "token": "0x4c49b25c9b328230732be540fd734dae611c642a",
+            "abi": "StakeMine",
+            "decimals": 18,
+            "url": "https://pancakeswap.info/pool/0x4c49b25c9b328230732be540fd734dae611c642a",
+            "priceUrl": "https://pancakeswap.info",
+            "isCalc": false
+        },
+        {
+            "title": "LGC/USDT(MDX)2",
+            "address": "0x0000000000000000000000000000000000000011",
+            "token": "0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "abi": "StakeMine",
+            "decimals": 18,
+            "url": "https://bsc-info.mdex.co/#/pair/0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "priceUrl": "https://bsc-info.mdex.com",
+            "isCalc": false
+        },
+        {
+            "title": "LGC/USDT(MDX)",
+            "address": "0x0000000000000000000000000000000000000009",
+            "token": "0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "abi": "StakeMine",
+            "decimals": 18,
+            "url": "https://bsc-info.mdex.co/#/pair/0x1c9580a7400026c2cdf8010b1938ed65e1f55a41",
+            "priceUrl": "https://bsc-info.mdex.com",
+            "isCalc": false
+        }
+    ],
+    "rolePool": [
+        {
+            "title": "第1期",
+            "address": "0x0000000000000000000000000000000000000001",
+            "abi": "RoleMine"
+        }
+    ]
+}
